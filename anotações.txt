@@ -1,0 +1,8 @@
+git clone link . = baixar arquivos do git hub usando o link
+
+Abrindo pasta com terminal integrado 
+npm init -y = criar o arquivo package.json
+npm i express = instalar o express
+node_modules = arquivos do express
+
+criar index.js (arquivo principal)
