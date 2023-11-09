@@ -6,3 +6,7 @@ npm i express = instalar o express
 node_modules = arquivos do express
 
 criar index.js (arquivo principal)
+
+git remote add origin(usar no terminal para dar commits de novas maquinas)
+
+npm i nodemon -D (instala o nodemon)
